@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134307965872",
+    "firebase_url": "https://ochentaytrespollen.firebaseio.com",
+    "project_id": "ochentaytrespollen",
+    "storage_bucket": "ochentaytrespollen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134307965872:android:4243758e20062d55dc0475",
+        "android_client_info": {
+          "package_name": "org.ochentaytres.pollen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134307965872-kdn8mi6p53u8bmmc6f0hk1o6hd6jesn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ochentaytres.pollen",
+            "certificate_hash": "a9f4ab37a55e24b1677d1a5f4bd98c61c2f03812"
+          }
+        },
+        {
+          "client_id": "134307965872-286avsqm2spbi267ah7go5jg61t2cj28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEYLWlcXwM3HrF_VyqjidsKp6aaM24_go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134307965872-286avsqm2spbi267ah7go5jg61t2cj28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
